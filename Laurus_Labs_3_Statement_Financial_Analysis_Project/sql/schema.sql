@@ -1,1 +1,0 @@
-CREATE TABLE historical_financials(fy INT PRIMARY KEY,revenue NUMERIC,ebitda NUMERIC,pbt NUMERIC,pat NUMERIC,net_fixed_assets NUMERIC,inventory NUMERIC,receivables NUMERIC,payables NUMERIC,debt NUMERIC,cash NUMERIC,nwc NUMERIC,capex NUMERIC);
